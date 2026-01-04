@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Wavy Updates</title>
-        <description>Updates for Wavy macOS</description>
+        <link>https://cristianferraraed.github.io/wavy-updates/appcast.xml</link>
+        <description>Updates for Wavy</description>
         <language>en</language>
+        <item>
+            <title>Wavy 7.5</title>
+            <description><![CDATA[
+                <h2>What's New in Wavy 7.5</h2>
+                <ul>
+                    <li>Auto-update functionality with Sparkle</li>
+                    <li>Improved stability</li>
+                    <li>Bug fixes and performance improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 04 Jan 2025 03:00:00 +0100</pubDate>
+            <enclosure 
+                url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.5/Wavy-7.5.zip"
+                sparkle:version="7.5"
+                sparkle:shortVersionString="7.5"
+                length="4278603"
+                type="application/octet-stream"
+                sparkle:edSignature="9y+TGexN6Smz9iI56Gi4E0n4WvDeMyLw278TXRxyDGjfJ6MSTqsa26CcuRUZJBlGm/Ie82RNlR2N9f2ynPzbAQ=="
+            />
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>

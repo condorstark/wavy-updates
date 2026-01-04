@@ -3,7 +3,7 @@
     <channel>
         <title>Wavy Updates</title>
         <link>https://cristianferraraed.github.io/wavy-updates/appcast.xml</link>
-        <description>Updates for Wavy macOS</description>
+        <description>Updates for Wavy</description>
         <language>en</language>
         <item>
             <title>Wavy 7.5</title>
@@ -15,7 +15,7 @@
                     <li>Bug fixes and performance improvements</li>
                 </ul>
             ]]></description>
-            <pubDate>Sun, 04 Jan 2026 04:00:00 +0100</pubDate>
+            <pubDate>Sat, 04 Jan 2025 03:00:00 +0100</pubDate>
             <enclosure 
                 url="https://github.com/cristianferraraed/wavy-updates/releases/download/7.5/Wavy-7.5.zip"
                 sparkle:version="7.5"

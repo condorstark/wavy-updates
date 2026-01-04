@@ -6,7 +6,7 @@
         <description>Updates for Wavy</description>
         <language>en</language>
         <item>
-            <title>Wavy 7.5</title>
+            <title>Wavy 7.6</title>
             <description><![CDATA[
                 <h2>What's New in Wavy 7.5</h2>
                 <ul>
@@ -20,9 +20,9 @@
                 url="https://github.com/cristianferraraed/wavy-updates/releases/download/7.5/Wavy-7.5.zip"
                 sparkle:version="7.5"
                 sparkle:shortVersionString="7.5"
-                length="4282631"
+                length="4301699"
                 type="application/octet-stream"
-                sparkle:edSignature="E+vofjJKQLNWGbcppcYmspi0mugsy0EgeG8S6ls9ZnzFpNb/hQOkaLG8557uTgISSL59uX5uVP2GaqD4KX8BAQ=="
+                sparkle:edSignature="S9/9K65wHH9ub6uQNrDnv0DAJSm1FvF7j6I+8bN4U44d4+lss6G2/v+nkl/e3xHs5BWrFbjqoFgLZLn84OMXAQ=="
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>

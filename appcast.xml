@@ -8,22 +8,22 @@
         <item>
             <title>Wavy 7.6</title>
             <description><![CDATA[
-                <h2>What's New in Wavy 7.7</h2>
+                <h2>What's New in Wavy 7.7.1</h2>
                 <ul>
                  <li>New Icon</li>
                     <li>bug fixed</li>
-                    <li>Settings auto-save</li>
-                    <li>Fixed auto-update notifications</li>
+                    <li>Sbug tets</li>
+                    <li>Ffix bug update</li>
                 </ul>
             ]]></description>
-            <pubDate>Sat, 04 Jan 2025 05:40:00 +0100</pubDate>
+            <pubDate>Sat, 05 Jan 2026 04:24:00 +0100</pubDate>
             <enclosure 
-                url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7/Wavy-7.7.zip"
-                sparkle:version="7.7"
-                sparkle:shortVersionString="7.7"
-                length="4399667"
+                url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7.1/Wavy-7.7.1.zip"
+                sparkle:version="7.7.1"
+                sparkle:shortVersionString="7.7.1"
+                length="4399535"
                 type="application/octet-stream"
-                sparkle:edSignature="2aKgj6FVY5MdsbtZ+6sAj0efg7/NzO93hf5x4aWhbF+W56KVfHsnauoXgNSVECkpJ4+Z5YWaYkyzPxyT0HRkAg=="
+                sparkle:edSignature="+7SW7x5gL1VehQb5BxxFIZNy8lyugb3n1nkyRdWJmhfTcGg4Noa3DFcW6yQDRGU+9HD0vZyGjyWzDURWE87yBg=="
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>

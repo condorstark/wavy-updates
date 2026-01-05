@@ -20,10 +20,10 @@
             <enclosure 
                 url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.6/Wavy-7.6.zip"
                 sparkle:version="7.6"
-                sparkle:shortVersionString="7.5"
-                length="4301740"
+                sparkle:shortVersionString="7.6"
+                length="4304897"
                 type="application/octet-stream"
-                sparkle:edSignature="iWrdTn8GrTmI3uQBMHSt7m0SWo1Y/gtllnVbnruFu8yMT7R8QE7zDB/meSDvIA6LZFn3nKFVDkLhUr+HgpQiCg=="
+                sparkle:edSignature="5JNWZLhUAit1oeItrdTrlmB/bslNSPszLYuIhHsNSueV74exRhMlDThmYdyizZk8HmfwYsy1vTp1PHWgs1UPCw=="
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>

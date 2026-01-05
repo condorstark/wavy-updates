@@ -1,31 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
-        <title>Wavy Updates</title>
-        <link>https://cristianferraraed.github.io/wavy-updates/appcast.xml</link>
-        <description>Updates for Wavy</description>
-        <language>en</language>
-        <item>
-            <title>Wavy 7.6</title>
-            <description><![CDATA[
-                <h2>What's New in Wavy 7.7.1</h2>
-                <ul>
-                 <li>New Icon</li>
-                    <li>bug fixed</li>
-                    <li>Sbug tets</li>
-                    <li>Ffix bug update</li>
-                </ul>
-            ]]></description>
-            <pubDate>Sat, 05 Jan 2026 04:24:00 +0100</pubDate>
-            <enclosure 
-                url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7.1/Wavy-7.7.1.zip"
-                sparkle:version="7.7.1"
-                sparkle:shortVersionString="7.7.1"
-                length="4399535"
-                type="application/octet-stream"
-                sparkle:edSignature="+7SW7x5gL1VehQb5BxxFIZNy8lyugb3n1nkyRdWJmhfTcGg4Noa3DFcW6yQDRGU+9HD0vZyGjyWzDURWE87yBg=="
-            />
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-        </item>
-    </channel>
-</rss>
+<item>
+    <title>Wavy 7.7.2</title>
+    <version>7.7.2</version>
+    <sparkle:shortVersionString>7.7.2</sparkle:shortVersionString>
+    <sparkle:version>7.7.2</sparkle:version>
+    <description><![CDATA[
+        <h2>What's New in Wavy 7.7.2</h2>
+        <ul>
+            <li>Fixed permissions persistence issues</li>
+            <li>Improved update stability</li>
+            <li>Bug fixes</li>
+        </ul>
+    ]]></description>
+    <pubDate>Mon, 05 Jan 2026 05:40:00 +0100</pubDate>
+    <enclosure 
+        url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7.2/Wavy-7.7.2.zip"
+        length="4399656"
+        type="application/octet-stream"
+        sparkle:edSignature="QYp0g6s9WYR8FBkeevS/D6/foQHuEikZ2gcu2hlhXwJmcf/U/lsM9r5PQEfUOrEB2W9n9exoYLVq0Gg5EJQXBQ=="
+    />
+    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+</item>

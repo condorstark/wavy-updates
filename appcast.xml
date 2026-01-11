@@ -21,9 +21,9 @@
             ]]></description>
             <enclosure 
                 url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7.5/Wavy-7.7.5.zip"
-                length="4399674"
+                length="4594117"
                 type="application/octet-stream"
-                sparkle:edSignature="c3vY2c2BvqIPNglU25IfnocJrw8zr+4M7dXalpuTu8GIDmDu9VdkE5jWTZ32lVWcbx+VXBPA5z0VKPiTYzsdDg=="
+                sparkle:edSignature="fD/S3BDg6PYyqKhSNo4OrZ3PKafjoKLj6FSlQaDQj633oM4v2JEem7Bm+9DqKkjGHyuebcyT64ustpu/kWB4CQ=="
                 sparkle:version="7.7.5"
                 sparkle:shortVersionString="7.7.5"
             />

@@ -7,12 +7,12 @@
         <language>en</language>
         
         <item>
-            <title>Wavy 7.7.3</title>
+            <title>Wavy 7.7.5</title>
             <pubDate>Mon, 05 Jan 2026 05:40:00 +0100</pubDate>
             <sparkle:version>7.7.2</sparkle:version>
             <sparkle:shortVersionString>7.7.2</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>What's New in Wavy 7.7.3</h2>
+                <h2>What's New in Wavy 7.7.5</h2>
                 <ul>
                     <li>Fixed permissions persistence issues</li>
                     <li>Improved update stability</li>
@@ -20,12 +20,12 @@
                 </ul>
             ]]></description>
             <enclosure 
-                url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7.3/Wavy-7.7.3.zip"
+                url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7.5/Wavy-7.7.5.zip"
                 length="4399674"
                 type="application/octet-stream"
                 sparkle:edSignature="c3vY2c2BvqIPNglU25IfnocJrw8zr+4M7dXalpuTu8GIDmDu9VdkE5jWTZ32lVWcbx+VXBPA5z0VKPiTYzsdDg=="
-                sparkle:version="7.7.3"
-                sparkle:shortVersionString="7.7.3"
+                sparkle:version="7.7.5"
+                sparkle:shortVersionString="7.7.5"
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>

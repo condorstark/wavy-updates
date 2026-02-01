@@ -29,29 +29,5 @@
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
-
-        <item>
-            <title>Wavy 7.7.5</title>
-            <pubDate>Mon, 05 Jan 2026 05:40:00 +0100</pubDate>
-            <sparkle:version>7.7.5</sparkle:version>
-            <sparkle:shortVersionString>7.7.5</sparkle:shortVersionString>
-            <description><![CDATA[
-                <h2>What's New in Wavy 7.7.5</h2>
-                <ul>
-                    <li>Fixed permissions persistence issues</li>
-                    <li>Improved update stability</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]></description>
-            <enclosure 
-                url="https://github.com/cristianferraraed/wavy-updates/releases/download/v7.7.5/Wavy-7.7.5.zip"
-                length="4594138"
-                type="application/octet-stream"
-                sparkle:edSignature="N8n2M77jGuaWYtlucbutcb1/+fAYgTuH+ZKJyaVg0qtRHpYjtfGEM0tvcCfitaIQNMHH7XJLCmcxEuBhqp7IBg=="
-                sparkle:version="7.7.5"
-                sparkle:shortVersionString="7.7.5"
-            />
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-        </item>
     </channel>
 </rss>

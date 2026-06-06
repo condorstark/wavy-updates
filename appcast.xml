@@ -2,10 +2,34 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Wavy Updates</title>
-        <link>https://cristianferraraed.github.io/wavy-updates/appcast.xml</link>
+        <link>https://condorstark.github.io/wavy-updates/appcast.xml</link>
         <description>Updates for Wavy</description>
         <language>en</language>
-        
+
+        <item>
+            <title>Wavy 8.0</title>
+            <pubDate>Sat, 06 Jun 2026 22:20:08 +0200</pubDate>
+            <sparkle:version>8.0</sparkle:version>
+            <sparkle:shortVersionString>8.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in Wavy 8.0</h2>
+                <ul>
+                    <li>Wavy is now completely free for everyone</li>
+                    <li>Removed trial limits and purchase requirement</li>
+                    <li>Full access to all features</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/condorstark/wavy-updates/releases/download/v8.0/Wavy-8.0.zip"
+                length="4716704"
+                type="application/octet-stream"
+                sparkle:edSignature="zraGPi8qvAEY+HgPmCwh7hy+CMwxlIuB4s1zT4LFF8rHiWl2UdYuFBslruI7AJTGK2jwRmBIfA6IynEXhOFWAw=="
+                sparkle:version="8.0"
+                sparkle:shortVersionString="8.0"
+            />
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+
         <item>
             <title>Wavy 2.0.0</title>
             <pubDate>Sat, 01 Feb 2026 19:17:00 +0100</pubDate>
@@ -19,7 +43,7 @@
                     <li>Bug fixes and performance enhancements</li>
                 </ul>
             ]]></description>
-            <enclosure 
+            <enclosure
                 url="https://github.com/cristianferraraed/wavy-updates/releases/download/v2.0.0/Wavy-2.0.0.zip"
                 length="4725170"
                 type="application/octet-stream"
